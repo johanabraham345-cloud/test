@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:#000;
+    overflow:hidden;
+}
+
+svg{
+    width:500px;
+    height:500px;
+}
+
+text{
+    fill:#ffb6c1;
+    font-size:22px;
+    font-family:Arial,sans-serif;
+    letter-spacing:2px;
+    filter:drop-shadow(0 0 8px #fff);
+}
